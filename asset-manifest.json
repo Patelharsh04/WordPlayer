@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordPlayer/static/css/main.f855e6bc.css",
+    "main.js": "/WordPlayer/static/js/main.a4794f50.js",
+    "static/js/787.9a72b3b1.chunk.js": "/WordPlayer/static/js/787.9a72b3b1.chunk.js",
+    "index.html": "/WordPlayer/index.html",
+    "main.f855e6bc.css.map": "/WordPlayer/static/css/main.f855e6bc.css.map",
+    "main.a4794f50.js.map": "/WordPlayer/static/js/main.a4794f50.js.map",
+    "787.9a72b3b1.chunk.js.map": "/WordPlayer/static/js/787.9a72b3b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a4794f50.js"
+  ]
+}
